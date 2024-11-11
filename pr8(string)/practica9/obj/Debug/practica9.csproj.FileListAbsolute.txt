@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\bin\Debug\practica9.exe.config
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\bin\Debug\practica9.exe
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\bin\Debug\practica9.pdb
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\obj\Debug\practica9.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\obj\Debug\practica9.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\obj\Debug\practica9.exe
+C:\Users\wfgab\source\repos\Лекции\practica9\practica9\obj\Debug\practica9.pdb

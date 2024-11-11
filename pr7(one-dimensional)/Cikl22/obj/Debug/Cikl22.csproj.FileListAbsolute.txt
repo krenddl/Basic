@@ -1,0 +1,14 @@
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\bin\Debug\Cikl22.exe.config
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\bin\Debug\Cikl22.exe
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\bin\Debug\Cikl22.pdb
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\obj\Debug\Cikl22.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\obj\Debug\Cikl22.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\obj\Debug\Cikl22.exe
+C:\Users\wfgab\source\repos\Practic 5\Cikl22\obj\Debug\Cikl22.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\bin\Debug\Cikl22.exe.config
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\bin\Debug\Cikl22.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\bin\Debug\Cikl22.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\obj\Debug\Cikl22.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\obj\Debug\Cikl22.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\obj\Debug\Cikl22.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl22\obj\Debug\Cikl22.pdb

@@ -1,0 +1,14 @@
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\bin\Debug\Cikl24.exe.config
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\bin\Debug\Cikl24.exe
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\bin\Debug\Cikl24.pdb
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\obj\Debug\Cikl24.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\obj\Debug\Cikl24.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\obj\Debug\Cikl24.exe
+C:\Users\wfgab\source\repos\Practic 5\Cikl24\obj\Debug\Cikl24.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\bin\Debug\Cikl24.exe.config
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\bin\Debug\Cikl24.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\bin\Debug\Cikl24.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\obj\Debug\Cikl24.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\obj\Debug\Cikl24.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\obj\Debug\Cikl24.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Cikl24\obj\Debug\Cikl24.pdb

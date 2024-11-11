@@ -1,0 +1,14 @@
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\bin\Debug\Practic 5.exe.config
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\bin\Debug\Practic 5.exe
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\bin\Debug\Practic 5.pdb
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\obj\Debug\Cikl21.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\obj\Debug\Cikl21.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\obj\Debug\Practic 5.exe
+C:\Users\wfgab\source\repos\Practic 5\Practic 5\obj\Debug\Practic 5.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\obj\Debug\Cikl21.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\obj\Debug\Cikl21.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\bin\Debug\Cikl21.exe.config
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\bin\Debug\Cikl21.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\bin\Debug\Cikl21.pdb
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\obj\Debug\Cikl21.exe
+C:\Users\wfgab\source\repos\Практики\Practic 5(dowhile)\Practic 5\obj\Debug\Cikl21.pdb
