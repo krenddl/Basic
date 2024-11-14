@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wfgab\\source\\repos\\practic4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB25B5-8421-4638-960E-5C263E167D42}|Cikl4\\Cikl4.csproj|C:\\Users\\wfgab\\source\\repos\\practic4\\cikl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB25B5-8421-4638-960E-5C263E167D42}|Cikl4\\Cikl4.csproj|solutionrelative:cikl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C052-7F35-4D04-B147-6B9529D0D384}|Cikl3\\Cikl3.csproj|c:\\users\\wfgab\\source\\repos\\practic4\\cikl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B86C052-7F35-4D04-B147-6B9529D0D384}|Cikl3\\Cikl3.csproj|solutionrelative:cikl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDDC182-5A41-4A88-B31A-6AECDD44ED6D}|Cilk2\\Cikl2.csproj|C:\\Users\\wfgab\\source\\repos\\practic4\\cilk2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDDC182-5A41-4A88-B31A-6AECDD44ED6D}|Cilk2\\Cikl2.csproj|solutionrelative:cilk2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB4DD5-22A2-4671-B91B-E130FD113305}|practic4\\Cikl1.csproj|C:\\Users\\wfgab\\source\\repos\\practic4\\practic4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FB4DD5-22A2-4671-B91B-E130FD113305}|practic4\\Cikl1.csproj|solutionrelative:practic4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cikl4\\Program.cs",
+              "RelativeDocumentMoniker": "Cikl4\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cikl4\\Program.cs",
+              "RelativeToolTip": "Cikl4\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:22:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cikl3\\Program.cs",
+              "RelativeDocumentMoniker": "Cikl3\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cikl3\\Program.cs",
+              "RelativeToolTip": "Cikl3\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:43:06.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cilk2\\Program.cs",
+              "RelativeDocumentMoniker": "Cilk2\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\practic4\\Cilk2\\Program.cs",
+              "RelativeToolTip": "Cilk2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:30:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\practic4\\practic4\\Program.cs",
+              "RelativeDocumentMoniker": "practic4\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\practic4\\practic4\\Program.cs",
+              "RelativeToolTip": "practic4\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:13:14.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

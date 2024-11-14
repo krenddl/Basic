@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\practic4\Cikl4\obj\Debug\Cikl4.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\practic4\Cikl4\obj\Debug\Cikl4.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\practic4\Cikl4\bin\Debug\Cikl4.exe.config
+C:\Users\wfgab\source\repos\practic4\Cikl4\bin\Debug\Cikl4.exe
+C:\Users\wfgab\source\repos\practic4\Cikl4\bin\Debug\Cikl4.pdb
+C:\Users\wfgab\source\repos\practic4\Cikl4\obj\Debug\Cikl4.exe
+C:\Users\wfgab\source\repos\practic4\Cikl4\obj\Debug\Cikl4.pdb

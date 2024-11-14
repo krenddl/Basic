@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56DF4712-5B7B-40E5-A722-148579B46C10}|string3\\string3.csproj|c:\\users\\wfgab\\source\\repos\\\u043B\u0435\u043A\u0446\u0438\u0438\\practica9\\string3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DF4712-5B7B-40E5-A722-148579B46C10}|string3\\string3.csproj|solutionrelative:string3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EF77BF-FF88-4B9A-8C23-ED36332A489E}|string2\\string2.csproj|C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EF77BF-FF88-4B9A-8C23-ED36332A489E}|string2\\string2.csproj|solutionrelative:string2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602D40C7-CEB0-433F-A43D-903827EB712F}|string1\\string1.csproj|C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602D40C7-CEB0-433F-A43D-903827EB712F}|string1\\string1.csproj|solutionrelative:string1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00848A-53F4-4E8E-8CB2-C0743777C560}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00848A-53F4-4E8E-8CB2-C0743777C560}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string3\\Program.cs",
+              "RelativeDocumentMoniker": "string3\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string3\\Program.cs",
+              "RelativeToolTip": "string3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:05:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string2\\Program.cs",
+              "RelativeDocumentMoniker": "string2\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string2\\Program.cs",
+              "RelativeToolTip": "string2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:48:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string1\\Program.cs",
+              "RelativeDocumentMoniker": "string1\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\string1\\Program.cs",
+              "RelativeToolTip": "string1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:41:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041B\u0435\u043A\u0446\u0438\u0438\\practica9\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:18:48.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

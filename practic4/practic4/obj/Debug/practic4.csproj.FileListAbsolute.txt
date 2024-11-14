@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\practic4\practic4\bin\Debug\practic4.exe.config
+C:\Users\wfgab\source\repos\practic4\practic4\bin\Debug\practic4.exe
+C:\Users\wfgab\source\repos\practic4\practic4\bin\Debug\practic4.pdb
+C:\Users\wfgab\source\repos\practic4\practic4\obj\Debug\practic4.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\practic4\practic4\obj\Debug\practic4.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\practic4\practic4\obj\Debug\practic4.exe
+C:\Users\wfgab\source\repos\practic4\practic4\obj\Debug\practic4.pdb

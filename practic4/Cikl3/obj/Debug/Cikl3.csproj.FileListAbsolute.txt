@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\practic4\Cikl3\bin\Debug\Cikl3.exe.config
+C:\Users\wfgab\source\repos\practic4\Cikl3\bin\Debug\Cikl3.exe
+C:\Users\wfgab\source\repos\practic4\Cikl3\bin\Debug\Cikl3.pdb
+C:\Users\wfgab\source\repos\practic4\Cikl3\obj\Debug\Cikl3.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\practic4\Cikl3\obj\Debug\Cikl3.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\practic4\Cikl3\obj\Debug\Cikl3.exe
+C:\Users\wfgab\source\repos\practic4\Cikl3\obj\Debug\Cikl3.pdb

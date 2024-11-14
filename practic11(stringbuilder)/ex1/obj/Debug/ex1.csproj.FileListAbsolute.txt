@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\bin\Debug\ex1.exe.config
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\bin\Debug\ex1.exe
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\bin\Debug\ex1.pdb
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\obj\Debug\ex1.exe
+C:\Users\wfgab\source\repos\Практики\practic11(stringbuilder)\ex1\obj\Debug\ex1.pdb

@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\bin\Debug\string2.exe.config
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\bin\Debug\string2.exe
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\bin\Debug\string2.pdb
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\obj\Debug\string2.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\obj\Debug\string2.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\obj\Debug\string2.exe
+C:\Users\wfgab\source\repos\Лекции\practica9\string2\obj\Debug\string2.pdb
